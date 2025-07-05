@@ -22,8 +22,5 @@ A modern and responsive Admin Dashboard built with **Next.js**, **Tailwind CSS**
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **Language**: TypeScript
 - **Icons**: Heroicons / Lucide
-- **Charting**: ApexCharts (optional)
-
----
-```md
+- **Charting**: ApexCharts 
 
