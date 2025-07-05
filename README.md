@@ -25,8 +25,5 @@ A modern and responsive Admin Dashboard built with **Next.js**, **Tailwind CSS**
 - **Charting**: ApexCharts (optional)
 
 ---
-
 ```md
-![Dashboard Preview](https://link-to-your-screenshot-1)
-![Dark Mode](https://link-to-your-screenshot-2)
 
