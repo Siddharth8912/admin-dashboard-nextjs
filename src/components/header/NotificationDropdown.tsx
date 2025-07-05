@@ -89,7 +89,7 @@ export default function NotificationDropdown() {
                 <Image
                   width={40}
                   height={40}
-                  src="/images/user/user-02.jpg"
+                  src="/images/user/amun ra.jpg"
                   alt="User"
                   className="w-full overflow-hidden rounded-full"
                 />
@@ -99,11 +99,11 @@ export default function NotificationDropdown() {
               <span className="block">
                 <span className="mb-1.5 space-x-1 block text-theme-sm text-gray-500 dark:text-gray-400">
                   <span className="font-medium text-gray-800 dark:text-white/90">
-                    Terry Franci
+                    Amun Ra
                   </span>
                   <span>requests permission to change</span>
                   <span className="font-medium text-gray-800 dark:text-white/90">
-                    Project - Nganter App
+                    Project-Egypt 
                   </span>
                 </span>
 
@@ -125,7 +125,7 @@ export default function NotificationDropdown() {
                 <Image
                   width={40}
                   height={40}
-                  src="/images/user/user-03.jpg"
+                  src="/images/user/caeser.jpg"
                   alt="User"
                   className="w-full overflow-hidden rounded-full"
                 />
@@ -135,11 +135,11 @@ export default function NotificationDropdown() {
               <span className="block">
                 <span className="mb-1.5 block space-x-1  text-theme-sm text-gray-500 dark:text-gray-400">
                   <span className="font-medium text-gray-800 dark:text-white/90">
-                    Alena Franci
+                    Julius Caesar
                   </span>
                   <span> requests permission to change</span>
                   <span className="font-medium text-gray-800 dark:text-white/90">
-                    Project - Nganter App
+                    Project-Greece
                   </span>
                 </span>
 
@@ -162,7 +162,7 @@ export default function NotificationDropdown() {
                 <Image
                   width={40}
                   height={40}
-                  src="/images/user/user-04.jpg"
+                  src="/images/user/napolean.jpg"
                   alt="User"
                   className="w-full overflow-hidden rounded-full"
                 />
@@ -172,11 +172,11 @@ export default function NotificationDropdown() {
               <span className="block">
                 <span className="mb-1.5 block space-x-1 text-theme-sm text-gray-500 dark:text-gray-400">
                   <span className="font-medium text-gray-800 dark:text-white/90">
-                    Jocelyn Kenter
+                    Napolean Bonaparte
                   </span>
                   <span>requests permission to change</span>
                   <span className="font-medium text-gray-800 dark:text-white/90">
-                    Project - Nganter App
+                    Project-France 
                   </span>
                 </span>
 
@@ -199,7 +199,7 @@ export default function NotificationDropdown() {
                 <Image
                   width={40}
                   height={40}
-                  src="/images/user/user-05.jpg"
+                  src="/images/user/tutankhamun.jpg"
                   alt="User"
                   className="w-full overflow-hidden rounded-full"
                 />
@@ -209,11 +209,11 @@ export default function NotificationDropdown() {
               <span className="block">
                 <span className="mb-1.5 space-x-1 block text-theme-sm text-gray-500 dark:text-gray-400">
                   <span className="font-medium text-gray-800 dark:text-white/90">
-                    Brandon Philips
+                    Tutankhamun 
                   </span>
                   <span> requests permission to change</span>
                   <span className="font-medium text-gray-800 dark:text-white/90">
-                    Project - Nganter App
+                    Project-Mesopotamia 
                   </span>
                 </span>
 

@@ -18,12 +18,12 @@ export const EcommerceMetrics = () => {
               Customers
             </span>
             <h4 className="mt-2 font-bold text-gray-800 text-title-sm dark:text-white/90">
-              3,782
+              3,700
             </h4>
           </div>
           <Badge color="success">
             <ArrowUpIcon />
-            11.01%
+            15.01%
           </Badge>
         </div>
       </div>
@@ -40,13 +40,13 @@ export const EcommerceMetrics = () => {
               Orders
             </span>
             <h4 className="mt-2 font-bold text-gray-800 text-title-sm dark:text-white/90">
-              5,359
+              5,400
             </h4>
           </div>
 
           <Badge color="error">
             <ArrowDownIcon className="text-error-500" />
-            9.05%
+            8.05%
           </Badge>
         </div>
       </div>

@@ -90,7 +90,7 @@ export default function DemographicCard() {
               <div className="absolute left-0 top-0 flex h-full w-[79%] items-center justify-center rounded-sm bg-brand-500 text-xs font-medium text-white"></div>
             </div>
             <p className="font-medium text-gray-800 text-theme-sm dark:text-white/90">
-              79%
+              86%
             </p>
           </div>
         </div>
